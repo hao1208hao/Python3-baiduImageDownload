@@ -5,3 +5,5 @@
 使用 pyinstaller.exe   
 
 pyinstaller.exe -F  py文件路径
+
+下载的图片会保存在   D:\baiduImageDownload
